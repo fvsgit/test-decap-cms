@@ -9,7 +9,7 @@ Docusaurus creates a **page for each blog post**, but also a **blog index page**
 ## Create your first Post
 
 Create a file at `blog/2021-02-28-greetings.md`:
-
+dfgfdfdgdfg
 ```md title="blog/2021-02-28-greetings.md"
 ---
 slug: greetings
@@ -32,3 +32,6 @@ Feel free to play around and edit this post as much you like.
 ```
 
 A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjA1NTQ0OTE2XX0=
+-->
